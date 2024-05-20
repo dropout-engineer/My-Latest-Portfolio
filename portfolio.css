@@ -498,7 +498,9 @@ h1{
     margin: auto;
   }
 
-
+.project-content{
+  gap: 10px;
+}
 
 
 
