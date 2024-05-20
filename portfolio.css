@@ -368,6 +368,7 @@ header{
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
+  gap: 13px;
 }
 
 
@@ -499,7 +500,7 @@ h1{
   }
 
 .project-content{
-  gap: 25px;
+  gap: 13px;
 }
 
 
